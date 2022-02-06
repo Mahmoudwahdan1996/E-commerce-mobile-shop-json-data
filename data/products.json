@@ -1,0 +1,308 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "Apple iPhone 8",
+      "image": "./images/products/iphone/iphone3.jpeg",
+      "price": 290,
+      "category": "ios",
+      "review": 3.5,
+      "stock": 7
+    },
+    {
+      "id": 1,
+      "title": "Apple iPhone 11",
+      "image": "./images/products/iphone/iphone1.jpeg",
+      "price": 760,
+      "category": "ios",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 2,
+      "title": "Apple iPhone 13",
+      "image": "./images/products/iphone/iphone2.jpeg",
+      "price": 900,
+      "category": "ios",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 3,
+      "title": "Apple iPhone 8",
+      "image": "./images/products/iphone/iphone3.jpeg",
+      "price": 290,
+      "category": "ios",
+      "review": 3.5,
+      "stock": 7
+    },
+    {
+      "id": 4,
+      "title": "Apple iPhone 11 pro",
+      "image": "./images/products/iphone/iphone4.jpeg",
+      "price": 400,
+      "category": "ios",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 5,
+      "title": "Apple iPhone 8 Pro",
+      "image": "./images/products/iphone/iphone5.jpeg",
+      "price": 385,
+      "category": "ios",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 6,
+      "title": "Apple iPhone 13 pro",
+      "image": "./images/products/iphone/iphone6.jpeg",
+      "price": 1000,
+      "category": "ios",
+      "review": 5,
+      "stock": 7
+    },
+    {
+      "id": 7,
+      "title": "Apple iPhone 8 Pro",
+      "image": "./images/products/iphone/iphone5.jpeg",
+      "price": 385,
+      "category": "ios",
+      "review": 3,
+      "stock": 7
+    },
+    {
+      "id": 8,
+      "title": "Apple iPhone 8",
+      "image": "./images/products/iphone/iphone3.jpeg",
+      "price": 290,
+      "category": "ios",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 9,
+      "title": "Samsung Galaxy S20 pro",
+      "image": "./images/products/sumsung/samsung1.jpeg",
+      "price": 800,
+      "category": "android",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 10,
+      "title": "Samsung Galaxy S20  ",
+      "image": "./images/products/sumsung/samsung2.jpeg",
+      "price": 700,
+      "category": "android",
+      "review": 3,
+      "stock": 7
+    },
+    {
+      "id": 11,
+      "title": "Samsung Galaxy A6  ",
+      "image": "./images/products/sumsung/samsung3.jpeg",
+      "price": 450,
+      "category": "android",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 12,
+      "title": "Samsung Galaxy note 3",
+      "image": "./images/products/sumsung/samsung4.jpeg",
+      "price": 350,
+      "category": "android",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 13,
+      "title": "Samsung Galaxy note 4",
+      "image": "./images/products/sumsung/samsung5.jpeg",
+      "price": 450,
+      "category": "android",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 14,
+      "title": "Samsung Galaxy note 5",
+      "image": "./images/products/sumsung/samsung6.jpeg",
+      "price": 550,
+      "category": "android",
+      "review": 5,
+      "stock": 7
+    },
+    {
+      "id": 15,
+      "title": "Samsung Galaxy A20",
+      "image": "./images/products/sumsung/samsung7.png",
+      "price": 500,
+      "category": "android"
+    },
+    {
+      "id": 16,
+      "title": "Samsung Galaxy note s3",
+      "image": "./images/products/sumsung/samsung8.png",
+      "price": 350,
+      "category": "android",
+      "review": 3,
+      "stock": 7
+    },
+    {
+      "id": 17,
+      "title": "Samsung Galaxy note s10",
+      "image": "./images/products/sumsung/samsung9.png",
+      "price": 550,
+      "category": "android",
+      "review": 3,
+      "stock": 7
+    },
+    {
+      "id": 18,
+      "title": "Samsung Galaxy note note 20",
+      "image": "./images/products/sumsung/samsung10.png",
+      "price": 900,
+      "category": "android",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 19,
+      "title": "Samsung Galaxy note s21",
+      "image": "./images/products/sumsung/samsung11.png",
+      "price": 1000,
+      "category": "android",
+      "review": 5,
+      "stock": 7
+    },
+    {
+      "id": 20,
+      "title": "Samsung Galaxy note grand2",
+      "image": "./images/products/sumsung/samsung12.png",
+      "price": 300,
+      "category": "android",
+      "review": 2,
+      "stock": 7
+    },
+    {
+      "id": 21,
+      "title": "Samsung Galaxy note grand Prime",
+      "image": "./images/products/sumsung/samsung13.png",
+      "price": 350,
+      "category": "android",
+      "review": 3,
+      "stock": 7
+    },
+    {
+      "id": 22,
+      "title": "Samsung Galaxy note note tab",
+      "image": "./images/products/sumsung/samsung14.png",
+      "price": 350,
+      "category": "android",
+      "review": 3,
+      "stock": 7
+    },
+    {
+      "id": 23,
+      "title": "oppo reno f2 ",
+      "image": "./images/products/oppo/oppo1.png",
+      "price": 500,
+      "category": "android",
+      "review": 2,
+      "stock": 7
+    },
+    {
+      "id": 24,
+      "title": "oppo reno f3 ",
+      "image": "./images/products/oppo/oppo2.png",
+      "price": 600,
+      "category": "android",
+      "review": 3,
+      "stock": 7
+    },
+    {
+      "id": 25,
+      "title": "oppo reno A2 ",
+      "image": "./images/products/oppo/oppo3.png",
+      "price": 250,
+      "category": "android",
+      "review": 2,
+      "stock": 7
+    },
+    {
+      "id": 26,
+      "title": "oppo reno A3 ",
+      "image": "./images/products/oppo/oppo4.png",
+      "price": 300,
+      "category": "android",
+      "review": 3,
+      "stock": 7
+    },
+    {
+      "id": 27,
+      "title": "oppo reno A5 ",
+      "image": "./images/products/oppo/oppo5.png",
+      "price": 400,
+      "category": "android",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 28,
+      "title": "oppo reno f5 ",
+      "image": "./images/products/oppo/oppo6.png",
+      "price": 600,
+      "category": "android",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 29,
+      "title": "oppo reno f5 pro ",
+      "image": "./images/products/oppo/oppo7.png",
+      "price": 650,
+      "category": "android",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 30,
+      "title": "Samsung Watch S2 ",
+      "image": "./images/products/accessories/swatch1.png",
+      "price": 450,
+      "category": "accessories",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 31,
+      "title": "Apple Watch A3 ",
+      "image": "./images/products/accessories/swatch2.png",
+      "price": 600,
+      "category": "accessories",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 32,
+      "title": "Apple Watch A4 ",
+      "image": "./images/products/accessories/swatch3.png",
+      "price": 700,
+      "category": "accessories",
+      "review": 4,
+      "stock": 7
+    },
+    {
+      "id": 33,
+      "title": "Samsung Watch A4 ",
+      "image": "./images/products/accessories/swatch4.png",
+      "price": 700,
+      "category": "accessories",
+      "review": 4,
+      "stock": 7
+    }
+  ]
+}
